@@ -1,0 +1,34 @@
+Thiago Siqueira Gomes - 190055294
+
+Exercícios:
+
+1.
+a) Git init:
+    Inicia o repositório e adiciona o arquivo .git ao projeto
+
+b) Git clone:
+    Baixa um repositório já existente
+ 
+c) Git branch:
+    Lista todas as branches criadas naquele repositório
+
+d) Git checkout:
+    Troca de branch
+
+e) Git fetch:
+    Mostra as alterações realizadas no repositório remoto
+
+f) Git pull:
+    Baixa as alterações do repositório remoto e atualiza o repositório local
+
+g) Git add:
+    Adiciona os arquivos alterados a Staging Area
+
+h) Git commit:
+    Salva as alterações com uma mensagem que resume o que foi alterado
+    
+i) Git push:
+    Envia os commits do repositório local para o repositório remoto
+
+ 2.
+    O git fetch buscas as diferenças em relação ao ramo atual, mas não modifica essa branch. Já git pull além de buscar as alterações faz o merge das diferenças.
